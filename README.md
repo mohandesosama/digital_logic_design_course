@@ -40,4 +40,8 @@ _**Laboratories**_:
 * Ronald J. Tocci, “Digital Systems: Principles and Applications”, 11th ed., Prentice Hall Publisher, 2010.
 
 ## Slides
-* Lecture 1: Introduction [Link]()
+* Lecture 1: Introduction [Link](https://github.com/mohandesosama/digital_logic_design_course/blob/master/course_slides/Ch01.ppt)
+* Lecture 2: [Link](https://github.com/mohandesosama/digital_logic_design_course/blob/master/course_slides/Ch02-A.ppt)
+* Lecture 3: [Link](https://github.com/mohandesosama/digital_logic_design_course/blob/master/course_slides/Ch02-B.ppt)
+* Lecture 4: [Link](https://github.com/mohandesosama/digital_logic_design_course/blob/master/course_slides/Ch03.ppt)
+* Lecture 5: [Link](https://github.com/mohandesosama/digital_logic_design_course/blob/master/course_slides/Ch04.ppt)
