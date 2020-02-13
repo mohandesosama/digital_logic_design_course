@@ -47,6 +47,7 @@ _**Laboratories**_:
 * Lecture 5: [Link](https://github.com/mohandesosama/digital_logic_design_course/blob/master/course_slides/Ch04.ppt)
 
 ## Exams and Quezz samples
+Will be contacted later
 
 ## Contact instructor
 Dr. Osama Hosameldeen
