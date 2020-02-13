@@ -35,7 +35,7 @@ _**Laboratories**_
 
 ## Textbooks
 * Morris Mano and Michael Ciletti, "Digital Design", 5th ed., Prentice Hall Publisher, 3.
-## References:
+## References
 * Thomas Floyd, "Digital Fundamentals", 10th ed., Prentice Hall Publisher, 2008.
 * Ronald J. Tocci, “Digital Systems: Principles and Applications”, 11th ed., Prentice Hall Publisher, 2010.
 
