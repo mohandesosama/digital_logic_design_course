@@ -49,6 +49,9 @@ _**Laboratories**_
 ## Exams and Quezz samples
 Will be contacted later
 
+## References
+* COE 202 - [Digital Logic Design](https://faculty.kfupm.edu.sa/COE/mudawar/coe202/202/index.htm) 
+
 ## Contact instructor
 Dr. Osama Hosameldeen
 mohandesosama@yahoo.com
